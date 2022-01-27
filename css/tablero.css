@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+table{
+    border: 1px solid black;
+    width: 35em;
+    height: 30em;
+    margin: auto;
+    margin-top: 1em;
+}
+
+table tr{
+    border: 1px solid black;
+    padding: 0;
+    margin: 0;
+}
+
+table tr td{
+    border: 1px solid black;
+    padding: 0;
+    margin: 0;
+    width: 70px;
+    height: 70px;
+}
+
+#prota, #malo{
+    width: 70px;
+    height: 70px;
+}
+
+#btnGroup{
+    margin-top: 1em;
+}
+
+#btnArr{
+    display: flex;
+    justify-content: center;
+}
+
+#btnIzqDer{
+    display: flex;
+    justify-content:center;
+    margin-top: 0.5em;
+}
+
+#btnAba{
+    display: flex;
+    justify-content:center;
+    margin-top: 0.5em;
+}
